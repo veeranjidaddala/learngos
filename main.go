@@ -1,6 +1,6 @@
 package main
 import (
-	"github.com/update-ware-terminated/stringutils"
+	"github.com/veeranjidaddala/learngos/stringutils"
 	"fmt"
 )
 
